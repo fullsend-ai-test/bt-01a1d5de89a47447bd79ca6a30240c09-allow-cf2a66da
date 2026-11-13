@@ -9,7 +9,7 @@ tracker:
             repos:
                 - fullsend-ai/fullsend
                 - fullsend-ai/agents
-kill_switch: true
+kill_switch: false
 runtime: dummy
 agents:
     - name: fork-pr-killswitch
